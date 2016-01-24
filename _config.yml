@@ -1,0 +1,14 @@
+layout_spectrum: 0.3543939
+color:
+  saturation: 0.01901229
+  lightness: 0.4223031
+  brandStrength: 0.7774031
+  brandColors:
+    - '#99A2B5'
+    - '#1F3854'
+    - '#F9F4F3'
+    - '#B40103'
+    - '#A37754'
+  rhythmicContrast: 0.01654121
+typography_spectrum: 0.6365936
+name: air__craft
